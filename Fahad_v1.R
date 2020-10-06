@@ -1,2 +1,2 @@
 var1 <- " Hello, Noura , this is Fahad"
-var1
+var2 <- "Hello, Fahad, this is Nours"
