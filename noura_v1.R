@@ -1,2 +1,2 @@
 var4 <- " Hi NORA, Do you like this course?"
-var4
+var5 <- "yes"
